@@ -1,0 +1,42 @@
+@import '../../themes/colors.scss';
+
+.baseText {
+  font-family: 'Open Sans', sans-serif;
+  color: $medium-black;
+  font-weight: 300;
+  margin: 0;
+  font-size: 16px;
+}
+
+.h1Style {
+  font-family: 'Playfair Display', sans-serif;
+  color: $black;
+  font-size: 48px;
+}
+
+.h2Style {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+  color: $black;
+  font-size: 24px;
+}
+
+.h3Style {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+  color: $black;
+  font-size: 16px;
+}
+
+.h4Style {
+  font-family: 'Monserrat', sans-serif;
+  font-weight: bold;
+  font-size: 15px;
+  color: $black;
+}
+
+.bodySmall {
+  font-family: 'Open Sans', sans-serif;
+  color: $medium-black;
+  font-size: 12px;
+}
