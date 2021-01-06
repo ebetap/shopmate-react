@@ -12,7 +12,7 @@
   "license": "MIT",
   "dependencies": {
     "@zeit/next-sass": "^1.0.1",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "js-cookie": "^2.2.1",
     "little-state-machine": "^2.11.3",
     "next": "^9.2.2",
